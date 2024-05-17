@@ -35,3 +35,8 @@ Battery socket (3x18650)
 3x Li-ion Battery 3.7v
 
 ![Alt text](images/IMG_3363.jpg)
+
+
+This project was done by zorkano , ahmed4143 and ahmed-hassan
+
+![Alt text](images/team.jpeg)
